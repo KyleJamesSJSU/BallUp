@@ -10,6 +10,7 @@ This repository consists of files transferred from a Unity DevOps repository. As
 Most of the files from the Unity project are present here. Some omissions include:
 - the "Library" folder, which was over 4 GB
 - the "UserSettings" and "Logs" folders
+
 If these should be included, we can update this repository. 
 
 ## Contributions
