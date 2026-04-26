@@ -5,9 +5,12 @@ BallUp is a platforming game where you play as a ball, and try to reach the top 
 You can play the game in your web browser at the following link: https://kylejamessjsu.itch.io/ballup
 
 ## Repository Details
+This repository consists of files transferred from a Unity DevOps repository. As such, there is no version history listed on the GitHub repository. We have a full log of commits in the Unity repository, which can be provided if required. 
+
 Most of the files from the Unity project are present here. Some omissions include:
-- the "Library" folder, which was over 4 GB.
+- the "Library" folder, which was over 4 GB
 - the "UserSettings" and "Logs" folders
+If these should be included, we can update this repository. 
 
 ## Contributions
 - **Mechanics**: All of the C# scripts present in the Assets/Scripts folder were written by Kyle James, along with the ShaderGraph shaders present in the game. 
