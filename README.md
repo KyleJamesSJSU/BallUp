@@ -14,13 +14,13 @@ Most of the files from the Unity project are present here. Some omissions includ
 If these should be included, we can update this repository. 
 
 ## Contributions
-- **Mechanics**: All of the C# scripts present in the Assets/Scripts folder were written by Kyle James, along with the ShaderGraph shaders present in the game. 
-- **Assets**: Zihao He imported packages into the project from the Unity Asset Store, supplying materials, sounds, and models, and decided the art direction of the game. Kyle James created some of the basic art present in the game for some of the materials, as well as the menu logo.
-- **Level Design**: Both Zihao He and Kyle James worked on the level design. Zihao placed static objects and models to contribute to the theme, while Kyle designed and placed dynamic objects and the tutorial.
-- **Animation**: Zihao He worked on the first iteration of moving platforms. Kyle later re-implemented them and added animated bumper objects.
-- **Shaders and Materials**: Most of the materials present were from imported packages provided by Zihao He. A few basic color materials, along with the launchpad effect, were made by Kyle James. 
-- **UI**: Kyle James worked on all of the UI elements present in the game, including all menus and the player UI. 
-- **VFX and Lighting**: Kyle James added all of the visual effects, including the brake particles, blob shadow, shader effects, and baked lighting.
+- **Mechanics**: All of the C# scripts present in the Assets/Scripts folder were written by Kyle, along with the ShaderGraph shaders present in the game. 
+- **Assets**: Zihao imported packages into the project from the Unity Asset Store, supplying materials, sounds, and models, and decided the art direction of the game. Kyle created some of the basic art present in the game for some of the materials, as well as the menu logo.
+- **Level Design**: Both Zihao and Kyle worked on the level design. Zihao placed static objects and models to contribute to the theme, while Kyle designed and placed dynamic objects and the tutorial.
+- **Animation**: Zihao worked on the first iteration of moving platforms. Kyle later re-implemented them and added animated bumper objects.
+- **Shaders and Materials**: Most of the materials present were from imported packages provided by Zihao. A few basic color materials, along with the launchpad effect, were made by Kyle. 
+- **UI**: Kyle worked on all of the UI elements present in the game, including all menus and the player UI. 
+- **VFX and Lighting**: Kyle added all of the visual effects, including the brake particles, blob shadow, shader effects, and baked lighting.
 
 ## Credits
 We used the following assets to complete our project:
