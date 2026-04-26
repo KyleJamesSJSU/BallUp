@@ -4,6 +4,8 @@ BallUp is a platforming game where you play as a ball, and try to reach the top 
 
 You can play the game in your web browser at the following link: https://kylejamessjsu.itch.io/ballup
 
+Here's our demo video: https://drive.google.com/file/d/1m2uNx2oLwqbKn3MW3HbyvnTQGyBJLTo9/view 
+
 ## Repository Details
 This repository consists of files transferred from a Unity DevOps repository. As such, there is no version history listed on the GitHub repository. We have a full log of commits in the Unity repository, which can be provided if required. 
 
