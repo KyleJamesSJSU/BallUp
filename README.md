@@ -1,4 +1,4 @@
-# BallUp
+# BallUp (Unity Game Project)
 ## A Unity project by Kyle James and Zihao He for CS134-01, completed in the S26 semester at SJSU.
 BallUp is a platforming game where you play as a ball, and try to reach the top of the map as fast as possible. The player can control the ball by rolling, jumping, and braking. The player has to platform across odd obstacles while avoiding bumpers and falling off of the map. The player wins when they reach the top of the map, at 100 meters!
 
